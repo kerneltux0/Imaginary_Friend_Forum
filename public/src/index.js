@@ -16,7 +16,7 @@
 // along with Podcast Interview Manager.  If not, see <https://www.gnu.org/licenses/>.
 
 const friendList = document.querySelector('#friends-list');
-const friendIndexURL = 'http://imaginary-friends-forum.herokuapp.com/friends';
+const friendIndexURL = 'https://imaginary-friends-forum.herokuapp.com/friends';
 const friendName = document.querySelector("#friend-name");
 const friendSpecies = document.querySelector("#friend-species");
 const friendDescription = document.querySelector("#friend-description");

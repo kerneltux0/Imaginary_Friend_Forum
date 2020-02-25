@@ -1,0 +1,49 @@
+/* Copyright 2019, Ryan Sise
+
+This file is part of Podcast Interview Manager.
+
+Podcast Interview Manager is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Podcast Interview Manager is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Podcast Interview Manager.  If not, see <https://www.gnu.org/licenses/>. */
+
+body {
+  text-align: center;
+  align-items: center;
+  background-color: #4caf50;
+}
+
+button.likes-button {
+  height: 45px;
+  width: 70px;
+}
+
+div.friend-entry {
+  background-color: #eeeeee;
+  display: inline-block;
+  margin: 10px;
+  width: 300px;
+  box-shadow: 10px 10px grey;
+  border-radius: 10px;
+}
+
+#friend-form {
+  background-color: #eeeeee;
+  display: inline-block;
+  width: 300px;
+  box-shadow: 10px 10px grey;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+div.friend-comments {
+  margin: 10px;
+}
